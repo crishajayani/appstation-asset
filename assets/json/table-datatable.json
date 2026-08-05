@@ -1,0 +1,9 @@
+[
+{"data":
+[
+{"InvoiceId":"910031","InvoiceNumber":"2655019","RestaurantID":"19","StartDate":"2022-04-11 06:30:36","EndDate":"2022-04-16 06:30:36","CommissionType":"Percentage","CommissionAmount":"8.16","Subtotal":"40.8","Total":"48.96","DueDate":"2022-04-24 06:30:36","Status":"0"},
+{"InvoiceId":"910032","InvoiceNumber":"2655020","RestaurantID":"19","StartDate":"2022-04-18 06:30:36","EndDate":"2022-04-17 09:38:27","CommissionType":"Percentage","CommissionAmount":"8.16","Subtotal":"20.8","Total":"28.96","DueDate":"2022-04-24 06:30:36","Status":"0"},
+{"InvoiceId":"910033","InvoiceNumber":"2655021","RestaurantID":"19","StartDate":"2022-04-21 06:30:36","EndDate":"2022-04-21 06:30:36","CommissionType":"Percentage","CommissionAmount":"8.16","Subtotal":"10.8","Total":"18.96","DueDate":"2022-04-24 06:30:36","Status":"0"}
+]
+}
+]
